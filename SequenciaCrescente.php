@@ -18,7 +18,7 @@ function SequenciaCrescente($array){
     }
 
 }
-
+//teste Area
 $array = [[1, 3, 2, 1],//false
 [1, 3, 2],//true
 [1, 2, 1, 2],//false
